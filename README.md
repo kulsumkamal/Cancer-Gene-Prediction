@@ -45,7 +45,7 @@ You can install these libraries using pip or conda package manager.
 To get started, clone this project repository to your local machine using the command:
 
 ```bash
-git clone https://github.com/yourusername/your-repository-name.git
+git clone https://github.com/kulsumkamal/Cancer-Gene-Prediction.git
 ```
 
 Next, navigate to the project directory using the command:
